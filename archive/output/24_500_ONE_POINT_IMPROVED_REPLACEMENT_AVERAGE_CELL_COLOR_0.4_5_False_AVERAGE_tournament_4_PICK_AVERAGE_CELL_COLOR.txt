@@ -1,0 +1,46 @@
+population_size, generation_budget, crossover_method, mutation_method, mutation_probability, mutation_candidate_size, optimize_color, optimize_color_method, selection_name, initialization
+(24, 500, 'ONE_POINT', 'IMPROVED_REPLACEMENT_AVERAGE_CELL_COLOR', 0.4, 5, False, 'AVERAGE', 'tournament_4', 'PICK_AVERAGE_CELL_COLOR')
+Initializing population
+Done initializing population.
+generation: 1 best fitness: 38350 avg. fitness: 41576.333333333336
+generation: 2 best fitness: 38350 avg. fitness: 40343.0
+generation: 3 best fitness: 38350 avg. fitness: 39356.666666666664
+generation: 4 best fitness: 38350 avg. fitness: 38768.875
+generation: 5 best fitness: 38350 avg. fitness: 38479.833333333336
+generation: 6 best fitness: 38018 avg. fitness: 38366.25
+generation: 7 best fitness: 37732 avg. fitness: 38322.333333333336
+generation: 8 best fitness: 37732 avg. fitness: 38185.166666666664
+generation: 9 best fitness: 37481 avg. fitness: 38034.208333333336
+generation: 10 best fitness: 36989 avg. fitness: 37789.791666666664
+generation: 11 best fitness: 36989 avg. fitness: 37496.916666666664
+generation: 12 best fitness: 36905 avg. fitness: 37302.791666666664
+generation: 13 best fitness: 36727 avg. fitness: 37104.458333333336
+generation: 14 best fitness: 36683 avg. fitness: 36915.875
+generation: 15 best fitness: 36428 avg. fitness: 36842.208333333336
+generation: 16 best fitness: 36428 avg. fitness: 36751.458333333336
+generation: 17 best fitness: 36018 avg. fitness: 36616.375
+generation: 18 best fitness: 35832 avg. fitness: 36442.958333333336
+generation: 19 best fitness: 35732 avg. fitness: 36224.416666666664
+generation: 20 best fitness: 35732 avg. fitness: 35965.75
+generation: 21 best fitness: 35563 avg. fitness: 35827.541666666664
+generation: 22 best fitness: 35563 avg. fitness: 35754.541666666664
+generation: 23 best fitness: 35437 avg. fitness: 35671.666666666664
+generation: 24 best fitness: 35244 avg. fitness: 35593.166666666664
+generation: 25 best fitness: 35196 avg. fitness: 35477.541666666664
+generation: 26 best fitness: 34942 avg. fitness: 35368.5
+generation: 27 best fitness: 34942 avg. fitness: 35211.416666666664
+generation: 28 best fitness: 34692 avg. fitness: 35121.5
+generation: 29 best fitness: 34592 avg. fitness: 34983.083333333336
+generation: 30 best fitness: 34411 avg. fitness: 34811.916666666664
+generation: 31 best fitness: 34411 avg. fitness: 34642.0
+generation: 32 best fitness: 34407 avg. fitness: 34538.958333333336
+generation: 33 best fitness: 34397 avg. fitness: 34459.0
+generation: 34 best fitness: 34395 avg. fitness: 34414.541666666664
+generation: 35 best fitness: 34393 avg. fitness: 34403.083333333336
+generation: 36 best fitness: 34392 avg. fitness: 34396.666666666664
+generation: 37 best fitness: 34392 avg. fitness: 34394.833333333336
+generation: 38 best fitness: 34392 avg. fitness: 34393.458333333336
+generation: 39 best fitness: 34392 avg. fitness: 34392.583333333336
+generation: 40 best fitness: 34392 avg. fitness: 34392.125
+population converged
+Time spent: 1123.0101130008698 seconds

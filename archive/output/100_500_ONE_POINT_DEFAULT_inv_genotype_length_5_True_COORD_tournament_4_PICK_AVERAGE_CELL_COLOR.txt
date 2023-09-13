@@ -1,0 +1,24 @@
+population_size, generation_budget, crossover_method, mutation_method, mutation_probability, mutation_candidate_size, optimize_color, optimize_color_method, selection_name, initialization
+(100, 500, 'ONE_POINT', 'DEFAULT', 'inv_genotype_length', 5, True, 'COORD', 'tournament_4', 'PICK_AVERAGE_CELL_COLOR')
+Initializing population
+Done initializing population.
+generation: 1 best fitness: 37966 avg. fitness: 41410.11
+generation: 2 best fitness: 37966 avg. fitness: 41048.04
+generation: 3 best fitness: 37966 avg. fitness: 40644.12
+generation: 4 best fitness: 37966 avg. fitness: 40327.4
+generation: 5 best fitness: 37966 avg. fitness: 39580.68
+generation: 6 best fitness: 37966 avg. fitness: 39435.09
+generation: 7 best fitness: 37966 avg. fitness: 38777.11
+generation: 8 best fitness: 37966 avg. fitness: 38836.97
+generation: 9 best fitness: 37966 avg. fitness: 38758.21
+generation: 10 best fitness: 37966 avg. fitness: 38997.49
+generation: 11 best fitness: 37966 avg. fitness: 38691.25
+generation: 12 best fitness: 37966 avg. fitness: 38702.69
+generation: 13 best fitness: 37966 avg. fitness: 38626.09
+generation: 14 best fitness: 37966 avg. fitness: 38893.11
+generation: 15 best fitness: 37966 avg. fitness: 38626.42
+generation: 16 best fitness: 37966 avg. fitness: 38835.19
+generation: 17 best fitness: 37966 avg. fitness: 38541.94
+generation: 18 best fitness: 37966 avg. fitness: 38723.63
+generation: 19 best fitness: 37966 avg. fitness: 38720.06
+generation: 20 best fitness: 37966 avg. fitness: 39094.15

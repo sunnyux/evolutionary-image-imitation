@@ -1,0 +1,22 @@
+population_size, generation_budget, crossover_method, mutation_method, mutation_probability, mutation_candidate_size, optimize_color, optimize_color_method, selection_name, initialization
+(24, 500, 'ONE_POINT', 'IMPROVED_REPLACEMENT_AVERAGE_CELL_COLOR', 0.6, 5, False, 'AVERAGE', 'tournament_4', 'PICK_AVERAGE_CELL_COLOR')
+Initializing population
+Done initializing population.
+generation: 1 best fitness: 38981 avg. fitness: 41355.916666666664
+generation: 2 best fitness: 37775 avg. fitness: 40036.291666666664
+generation: 3 best fitness: 37775 avg. fitness: 39198.833333333336
+generation: 4 best fitness: 37266 avg. fitness: 38642.541666666664
+generation: 5 best fitness: 36585 avg. fitness: 38079.791666666664
+generation: 6 best fitness: 36585 avg. fitness: 37580.791666666664
+generation: 7 best fitness: 36380 avg. fitness: 37270.625
+generation: 8 best fitness: 36087 avg. fitness: 36829.458333333336
+generation: 9 best fitness: 36087 avg. fitness: 36508.166666666664
+generation: 10 best fitness: 36087 avg. fitness: 36324.333333333336
+generation: 11 best fitness: 36087 avg. fitness: 36207.375
+generation: 12 best fitness: 36081 avg. fitness: 36125.125
+generation: 13 best fitness: 36081 avg. fitness: 36088.958333333336
+generation: 14 best fitness: 36081 avg. fitness: 36086.0
+generation: 15 best fitness: 36081 avg. fitness: 36083.5
+generation: 16 best fitness: 36081 avg. fitness: 36081.25
+population converged
+Time spent: 865.2260789871216 seconds
